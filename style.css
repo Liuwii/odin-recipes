@@ -1,0 +1,24 @@
+.home-header, .recipe-header {
+    background-color: hsla(0, 100%, 50%, 0.5);
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ingredients {
+    background-color: aquamarine;
+}
+
+.steps {
+    background-color: rgba(34, 139, 34, 0.413);
+}
+
+#important-step {
+    font-size: 40px;
+    font-weight: bold;
+}
